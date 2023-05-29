@@ -1,0 +1,36 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.link{
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+    color: azure;
+    
+}
+
+button{
+    width: 60%;
+    height: 7%;
+    background-color: rgb(38, 39, 39);
+    margin: 5px 5px;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 100%;
+   
+
+}
+
+/* .botao{
+   max-width: 100%;
+   display: flex;
+    align-items: center;
+    justify-content: center;
+} */

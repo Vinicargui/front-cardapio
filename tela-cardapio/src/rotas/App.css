@@ -1,0 +1,50 @@
+.App-principal{
+    width: 100vw;
+    height: 100vh;
+    background: red;
+    flex-wrap: wrap;
+}
+
+.App-header{
+    width: 100vw;
+    background-color: aqua;
+}
+
+.cadastroContainer{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  margin-top: 100px;
+  background-color:#F0FFFF  ;
+ 
+}
+
+.homeContainer{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  margin-top: 100px;
+  background-color: rgb(138, 14, 14);
+ 
+}
+
+.publicacaoContainer{
+  width: 100vw;
+  height: 100vh;
+ display: flex;
+ justify-content: center;
+ flex-wrap: wrap;
+ margin-top: 100px;
+ 
+ 
+}
+
+/* @media screen and (max-width:900px) {
+  .publicacaoContainer{
+    flex-wrap: wrap;
+  }
+} */
