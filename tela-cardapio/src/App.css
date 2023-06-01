@@ -1,6 +1,7 @@
 /* .App {
   text-align: center;
 }
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 
@@ -12,8 +13,8 @@
 
 .container {
   /* background-color:rgb(102, 89, 89); */
-  width: 100vw;
-  height: 100vh;
+  width: 100%;
+  height: 100%;
   background:linear-gradient(320deg, #ffb790 0, #ffac91 10%, #f79f90 20%, #e4928c 30%, #cc8485 40%, #b0747b 50%, #94656f 60%, #7c5963 70%, #684f59 80%, #58464f 90%, #4c4048 100%);;
   background-size: cover;
 
@@ -25,19 +26,6 @@
   
   color: white;
 }
-
-/* .App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-} */
 
 .logo{
   display: flex;
@@ -59,3 +47,20 @@
   margin-bottom: 0.2px;
   
 }
+
+
+
+/* .App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+

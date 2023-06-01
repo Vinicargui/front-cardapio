@@ -24,9 +24,31 @@ button{
     font-weight: bold;
     cursor: pointer;
     font-size: 100%;
+    text-decoration: none;
    
 
 }
+
+.logo{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Cormorant Garamond', serif;
+    font-weight:bold;
+    margin: 1px 1px 1px 1px;
+  }
+  
+  .logo h3{
+    display: flex;
+    justify-content: end;
+    margin-top: 1PX;
+    
+  }
+  
+  .logo h1{
+    display: flex;
+    margin-bottom: 0.2px;
+    
+  }
 
 /* .botao{
    max-width: 100%;

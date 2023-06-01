@@ -35,6 +35,7 @@
 .publicacaoContainer{
   width: 100vw;
   height: 100vh;
+  background:linear-gradient(320deg, #ffb790 0, #ffac91 10%, #f79f90 20%, #e4928c 30%, #cc8485 40%, #b0747b 50%, #94656f 60%, #7c5963 70%, #684f59 80%, #58464f 90%, #4c4048 100%);
  display: flex;
  justify-content: center;
  flex-wrap: wrap;

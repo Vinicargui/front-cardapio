@@ -5,10 +5,10 @@ function Buton() {
     <div className="container">
       <button>
         <Link className="link" to="/Pratos">
-          Pratos
+          Cardápio
         </Link>
       </button>
-      <button>
+      {/* <button>
         <Link className="link" to="/Sobremesas">
           Sobremesas
         </Link>
@@ -17,7 +17,7 @@ function Buton() {
         <Link className="link" to="/Bebidas">
           Bebidas
         </Link>
-      </button>
+      </button> */}
     </div>
   );
 }
